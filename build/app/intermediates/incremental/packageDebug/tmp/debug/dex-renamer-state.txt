@@ -1,0 +1,4 @@
+#Tue Sep 06 01:06:29 ICT 2022
+base.0=/home/tinphan/Documents/Flutter/udemy_course/section_7/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
